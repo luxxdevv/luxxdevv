@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="390" src="https://github.com/Mintybich/mintybich/blob/main/Untitled-1.png?raw=true"  />
+  <img height="320" src="https://github.com/Mintybich/mintybich/blob/main/Untitled-1.png?raw=true"  />
 </div>
 
 ###
