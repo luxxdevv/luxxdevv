@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Minty, Born and raised In San Juan, Puerto RIco<br><br>- 🔭 I’m working as a web developer!!<br>- 📚 I'm currently learning C# and Java.<br>- ⚡ In my free time I Play games with my homies<br>- im YNS **Grah grah boom**</p>
+<p align="left">I'm Luxx (Alex), Born and raised In San Juan, Puerto RIco<br><br>- 🔭 I’m working as a web developer!!<br>- 📚 I'm currently learning C# and Java.<br>- ⚡ In my free time I Play games with my homies<br>- im YNS **Grah grah boom**</p>
 
 ###
 
