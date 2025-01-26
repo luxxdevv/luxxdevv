@@ -71,11 +71,3 @@
 </div>
 
 ###
-
-<h3 align="left">💼 Work :</h3>
-
-###
-
-<p align="left">I Work With My Own Company Called<br>Starlite Communications. LLC<br><br>But im also available for hire<br>Starlite Is a company made with the heart to bring communitys together <br>what we do at starlite is provide website developing and hosting services  VIA Google firebase<br>We set a low price and all the money raised by Starlite Coms. will all go to  <br><br>- American Red Cross<br>&<br>- CLC | Canada Learning Code</p>
-
-###
